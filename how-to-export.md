@@ -1,0 +1,1 @@
+npx ts-node generate-model.ts door.fbx
